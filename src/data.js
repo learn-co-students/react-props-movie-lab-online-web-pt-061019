@@ -48,6 +48,7 @@ const movieData = [
     genres: ['drama'],
     poster: 'terrance-king'
   },
+  
   {
     title: 'The Trash Man',
     IMDBRating: 5,
